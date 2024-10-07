@@ -18,3 +18,5 @@ Backend: PHP and MySQL were utilized to manage server-side logic, database opera
 Hosting & Deployment:
 
 Successfully hosted and deployed the website on the Hostinger server, ensuring optimal performance, secure access, and continuous uptime. A detailed README file was also created using HTML and hosted on GitHub for easy reference.
+
+![stocktoday co in_index php(iPhone 6_7_8 Plus)](https://github.com/user-attachments/assets/e66b635e-36f5-47cd-86f1-c508aab6a682)
